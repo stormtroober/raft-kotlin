@@ -3,6 +3,9 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
+gradlew
+gradlew.bat
+gradle/*
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
@@ -46,19 +49,7 @@ bin/
 
 # Gradle specific files
 .gradle/
-build/
 
 # IntelliJ IDEA specific files
 .idea/
-*.iml
-*.ipr
-*.iws
-out/
 
-# Eclipse specific files
-.classpath
-.project
-.settings/
-
-# macOS specific files
-.DS_Store
