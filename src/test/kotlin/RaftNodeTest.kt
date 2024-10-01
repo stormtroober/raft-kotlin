@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test
 import org.junit.jupiter.api.BeforeEach
 
-class RaftNodeTest {
+class xRaftNodeTest {
     private lateinit var node1: RaftNode
     private lateinit var node2: RaftNode
     private lateinit var node3: RaftNode
